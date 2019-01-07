@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/portfolio-java.iml" filepath="$PROJECT_DIR$/portfolio-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portfolio-java-api/portfolio-java-api.iml" filepath="$PROJECT_DIR$/portfolio-java-api/portfolio-java-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portfolio-java-core/portfolio-java-core.iml" filepath="$PROJECT_DIR$/portfolio-java-core/portfolio-java-core.iml" />
+    </modules>
+  </component>
+</project>

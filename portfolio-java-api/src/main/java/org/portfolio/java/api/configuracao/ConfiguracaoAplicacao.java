@@ -5,7 +5,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.context.support.ReloadableResourceBundleMessageSource;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
@@ -16,8 +15,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 @Configuration
 @EnableScheduling
 @EnableWebMvc
-@EnableAspectJAutoProxy
-@ComponentScan(basePackages = "sls.transferenciaeletronica")
+@ComponentScan(basePackages = "org.portfolio.java")
 public class ConfiguracaoAplicacao {
 
     final Logger logger = LoggerFactory.getLogger(ConfiguracaoAplicacao.class);

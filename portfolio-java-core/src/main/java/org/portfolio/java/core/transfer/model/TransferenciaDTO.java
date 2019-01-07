@@ -1,96 +1,85 @@
 package org.portfolio.java.core.transfer.model;
 
-import java.io.Serializable;
-import java.util.Date;
+import com.fasterxml.jackson.annotation.JsonFormat;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Null;
+import java.io.Serializable;
+import java.util.Date;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
+public class TransferenciaDTO
+		implements Serializable {
 
-public class TransferenciaDTO implements Serializable{
+    private static final long serialVersionUID = 8863335127038176340L;
 
-	private static final long serialVersionUID = 8863335127038176340L;
-	
-	@NotNull(message = "{error.data.transeferencia.not.null}")
-	@JsonFormat(pattern="dd/MM/yyyy", timezone = "GMT-3")
-	private Date dataTransferencia;
-	
-	@Null(message = "{error.data.agendamento.null}")
-	@JsonFormat(pattern="dd/MM/yyyy")
-	private Date dataAgendamento;
-	
-	@NotNull(message = "{error.valor.not.null}")
-	private Double valor;
-	
-	@NotNull(message = "{error.conta.origem.not.null}")
-	private String contaOrigem;
-	
-	@NotNull(message = "{error.conta.destino.not.null}")
-	private String contaDestino;
-	
-	@Null(message = "{error.valor.taxa.null}")
-	private Double valorTaxa;
-	
-	public TransferenciaDTO() {
-	}
+    @NotNull(message = "{error.data.transeferencia.not.null}") @JsonFormat(pattern = "dd/MM/yyyy", timezone = "GMT-3") private Date
+		    dataTransferencia;
 
-	public TransferenciaDTO(Double valor, Date dataTransferencia, String contaOrigem, String contaDestino) {
-		this.valor = valor;
-		this.dataTransferencia = dataTransferencia;
-		this.contaOrigem = contaOrigem;
-		this.contaDestino = contaDestino;
-	}	
+    @Null(message = "{error.data.agendamento.null}") @JsonFormat(pattern = "dd/MM/yyyy") private Date dataAgendamento;
 
-	public Date getDataTransferencia() {
-		return dataTransferencia;
-	}
+    @NotNull(message = "{error.valor.not.null}") private Double valor;
 
-	public void setDataTransferencia(Date dataTransferencia) {
-		this.dataTransferencia = dataTransferencia;
-	}
+    @NotNull(message = "{error.conta.origem.not.null}") private String contaOrigem;
 
-	public Date getDataAgendamento() {
-		return dataAgendamento;
-	}
+    @NotNull(message = "{error.conta.destino.not.null}") private String contaDestino;
 
-	public void setDataAgendamento(Date dataAgendamento) {
-		this.dataAgendamento = dataAgendamento;
-	}
+    @Null(message = "{error.valor.taxa.null}") private Double valorTaxa;
 
-	public Double getValor() {
-		return valor;
-	}
+    public TransferenciaDTO() { }
 
-	public void setValor(Double valor) {
-		this.valor = valor;
-	}
+    public TransferenciaDTO(Double valor, Date dataTransferencia, String contaOrigem, String contaDestino) {
+	this.valor = valor;
+	this.dataTransferencia = dataTransferencia;
+	this.contaOrigem = contaOrigem;
+	this.contaDestino = contaDestino;
+    }
 
-	public String getContaOrigem() {
-		return contaOrigem;
-	}
+    public Date getDataTransferencia() {
+	return dataTransferencia;
+    }
 
-	public void setContaOrigem(String contaOrigem) {
-		this.contaOrigem = contaOrigem;
-	}
+    public void setDataTransferencia(Date dataTransferencia) {
+	this.dataTransferencia = dataTransferencia;
+    }
 
-	public String getContaDestino() {
-		return contaDestino;
-	}
+    public Date getDataAgendamento() {
+	return dataAgendamento;
+    }
 
-	public void setContaDestino(String contaDestino) {
-		this.contaDestino = contaDestino;
-	}
+    public void setDataAgendamento(Date dataAgendamento) {
+	this.dataAgendamento = dataAgendamento;
+    }
 
-	public Double getValorTaxa() {
-		return valorTaxa;
-	}
+    public Double getValor() {
+	return valor;
+    }
 
-	public void setValorTaxa(Double valorTaxa) {
-		this.valorTaxa = valorTaxa;
-	}
-	
-	
-	
+    public void setValor(Double valor) {
+	this.valor = valor;
+    }
+
+    public String getContaOrigem() {
+	return contaOrigem;
+    }
+
+    public void setContaOrigem(String contaOrigem) {
+	this.contaOrigem = contaOrigem;
+    }
+
+    public String getContaDestino() {
+	return contaDestino;
+    }
+
+    public void setContaDestino(String contaDestino) {
+	this.contaDestino = contaDestino;
+    }
+
+    public Double getValorTaxa() {
+	return valorTaxa;
+    }
+
+    public void setValorTaxa(Double valorTaxa) {
+	this.valorTaxa = valorTaxa;
+    }
 
 }

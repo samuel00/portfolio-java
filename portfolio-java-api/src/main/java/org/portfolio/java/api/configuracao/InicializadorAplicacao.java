@@ -3,7 +3,7 @@ package org.portfolio.java.api.configuracao;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRegistration;
 
-import org.portfolio.java.core.configuracao.PropriedadesCore;
+import org.portfolio.java.core.comum.PropriedadesCore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.env.AbstractEnvironment;

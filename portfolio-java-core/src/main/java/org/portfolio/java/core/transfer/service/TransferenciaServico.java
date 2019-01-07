@@ -1,11 +1,6 @@
 package org.portfolio.java.core.transfer.service;
 
-import java.util.List;
-import java.util.Objects;
-
-import org.portfolio.java.core.comum.ExcecaoGenerica;
-import org.portfolio.java.core.comum.HTTPResponse;
-import org.portfolio.java.core.comum.MensagemUtils;
+import org.portfolio.java.core.comum.*;
 import org.portfolio.java.core.transfer.model.Transferencia;
 import org.portfolio.java.core.transfer.model.TransferenciaDTO;
 import org.portfolio.java.core.transfer.repository.TransferenciaRepositorio;
@@ -14,6 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import java.util.List;
+import java.util.Objects;
 
 @Service
 public class TransferenciaServico {
@@ -29,8 +27,8 @@ public class TransferenciaServico {
 			transferenciaRepositorio.salvar(transferencia);
 			return new HTTPResponse(HttpStatus.CREATED);
 		}
-		return new HTTPResponse(MensagemUtils.getMensagenSemTaxa(), HttpStatus.BAD_REQUEST,
-				HttpStatus.BAD_REQUEST.value());
+		return new HTTPResponse(PropriedadesValidacao.getMensagen(PropriedadesValidacao.SEM_TAXA), HttpStatus.BAD_REQUEST,
+		                        HttpStatus.BAD_REQUEST.value());
 
 	}
 
@@ -38,7 +36,7 @@ public class TransferenciaServico {
 		try {
 			List<Transferencia> transferencias = transferenciaRepositorio.getAgendamentos();
 			if (transferencias == null) {
-				throw new ExcecaoGenerica(HttpStatus.NOT_FOUND, MensagemUtils.getMensagenSemAgendamento());
+				throw new ExcecaoGenerica(HttpStatus.NOT_FOUND, PropriedadesValidacao.getMensagen(PropriedadesValidacao.SEM_AGENDAMENTO));
 			}
 			return transferencias;
 		} catch (ExcecaoGenerica e) {

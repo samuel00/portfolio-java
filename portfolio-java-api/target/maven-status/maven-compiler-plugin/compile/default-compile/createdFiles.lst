@@ -1,8 +1,8 @@
 org/portfolio/java/api/rest/transfer/vo/TransferenciaVO.class
 org/portfolio/java/api/rest/transfer/resources/TransferenciaRecurso.class
-org/portfolio/java/api/App.class
 org/portfolio/java/api/rest/status/resources/StatusRecurso.class
-org/portfolio/java/api/configuracao/ConfiguracaoAplicacao$1.class
+org/portfolio/java/api/App.class
 org/portfolio/java/api/configuracao/ConfiguracaoAplicacao.class
+org/portfolio/java/api/configuracao/ConfiguracaoAplicacao$1.class
 org/portfolio/java/api/rest/comum/PadraoVO.class
 org/portfolio/java/api/configuracao/InicializadorAplicacao.class
