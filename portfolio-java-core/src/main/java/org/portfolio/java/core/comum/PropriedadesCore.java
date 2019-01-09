@@ -8,27 +8,27 @@ import java.util.Properties;
 
 public class PropriedadesCore {
 
-    private static final Logger     logger   = LoggerFactory.getLogger(PropriedadesCore.class);
-    public static final  String     AMBIENTE = "configuracao.ambiente";
-    public static final  String     VERSAO   = "configuracao.versao";
-    private static       Properties properties;
+    private static final Logger     logger          = LoggerFactory.getLogger(PropriedadesCore.class);
+    public static final  String     AMBIENTE        = "configuracao.ambiente";
+    public static final  String     VERSAO          = "configuracao.versao";
+    public static final  String     NOME_DO_ARQUIVO = "core.properties";
+    private static final Properties PROPERTIES;
 
     private PropriedadesCore() {
     }
 
     static {
-	properties = new Properties();
-	final String nomeDoArquivo = "core.properties";
-	final InputStream inputStream = Resource.loadResource(nomeDoArquivo);
+	PROPERTIES = new Properties();
+	final InputStream inputStream = Resource.loadResource(NOME_DO_ARQUIVO);
 	try {
-	    properties.load(inputStream);
+	    PROPERTIES.load(inputStream);
 	} catch (Exception e) {
 	    logger.error("Erro ao carregar arquivo de configuracoes iniciais!", e);
 	}
     }
 
     public static String obterPropriedade(String nomeDaPropriedade) {
-	return properties.getProperty(nomeDaPropriedade);
+	return PROPERTIES.getProperty(nomeDaPropriedade);
     }
 
     public static String getVersao() {

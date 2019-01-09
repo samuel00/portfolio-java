@@ -4,10 +4,12 @@ import java.io.InputStream;
 
 public class Resource {
 
+    public static final ClassLoader CLASS_LOADER = Resource.class.getClassLoader();
+
     private Resource(){}
 
     public static InputStream loadResource(String resource){
-	return Resource.class.getClassLoader().getResourceAsStream(resource);
+	return CLASS_LOADER.getResourceAsStream(resource);
     }
 
 }

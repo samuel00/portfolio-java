@@ -2,93 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de46fce8-6840-43be-b397-3fa7d4595e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstTest.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-java-core/src/test/java/org/portfolio/java/core/configuracao/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/codenarc/profile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.scannerwork/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/report-task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT-tests.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/configuracao/ConfiguracaoAplicacao$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/configuracao/ConfiguracaoAplicacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/configuracao/InicializadorAplicacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/rest/comum/PadraoVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/rest/status/resources/StatusRecurso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/rest/transfer/resources/TransferenciaRecurso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/classes/org/portfolio/java/api/rest/transfer/vo/TransferenciaVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/FastInfoset-1.2.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/derby-10.12.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/gmbal-api-only-3.1.0-b001.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/h2-1.4.192.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/ha-api-3.1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-4.2.19.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.2.19.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.2.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/httpclient-4.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/httpcore-4.4.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/javax.annotation-3.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-api-2.2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.7-b41.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jaxws-api-2.2.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jaxws-rt-2.2.8-promoted-b146.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jaxws-spring-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.0.GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/jsr181-api-1.0-MR1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/management-api-3.0.0-b012.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/mimepull-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/policy-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/portfolio-java-core-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/saaj-api-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/saaj-impl-1.3.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-support-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/stax-api-1.0-2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/stax-ex-1.7.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/stax2-api-3.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/streambuffer-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/woodstox-core-asl-4.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/xbean-spring-3.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/surefire-reports/org.portfolio.java.api.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-core/portfolio-java-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/portfolio-java-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/portfolio-java-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/portfolio-java-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/src/main/java/org/portfolio/java/api/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/src/test/java/org/portfolio/java/api/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT-tests.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/portfolio-java-core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-api/target/portfolio-java-api-0.0.1-SNAPSHOT/WEB-INF/lib/portfolio-java-core-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/surefire-reports/TEST-org.portfolio.java.api.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-api/target/test-classes/org/portfolio/java/api/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-core/src/main/resources/core.properties" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/src/main/resources/core.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-core/target/classes/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/target/classes/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-java-core/target/classes/org/portfolio/java/core/transfer/model/TransferenciaDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/target/classes/org/portfolio/java/core/transfer/model/TransferenciaDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/PropriedadesCoreTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-java-core/src/test/java/org/portfolio/java/core/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sonar-project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/portfolio-java-api/target/" />
@@ -111,7 +44,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="groovy" value="1" />
-          <entry key="java" value="38" />
+          <entry key="java" value="40" />
           <entry key="properties" value="5" />
           <entry key="sql" value="1" />
           <entry key="xml" value="3" />
@@ -121,7 +54,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="40" />
           <entry key="Properties" value="5" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="3" />
@@ -130,19 +63,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="groovy" value="169" />
-          <entry key="java" value="1561" />
+          <entry key="groovy" value="273" />
+          <entry key="java" value="1670" />
           <entry key="properties" value="4" />
-          <entry key="xml" value="59" />
+          <entry key="xml" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="169" />
-          <entry key="JAVA" value="1561" />
+          <entry key="Groovy" value="273" />
+          <entry key="JAVA" value="1670" />
           <entry key="PLAIN_TEXT" value="23" />
           <entry key="Properties" value="4" />
-          <entry key="XML" value="59" />
+          <entry key="XML" value="169" />
         </counts>
       </usages-collector>
     </session>
@@ -176,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/service/TransferenciaServico.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,20 +126,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+            <state relative-caret-position="184">
+              <caret line="103" column="42" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstTest.groovy">
+        <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/PropriedadesCoreTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#46#99#0" expanded="true" />
               </folding>
@@ -215,31 +148,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/resources/core.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="495">
+              <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#986#987#0" expanded="true" />
                 <element signature="e#1043#1044#0" expanded="true" />
-                <element signature="e#1167#1168#0" expanded="true" />
                 <element signature="e#1207#1208#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -249,10 +185,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio-java-core/pom.xml">
+        <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSourceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="193" column="31" selection-start-line="193" selection-start-column="31" selection-end-line="193" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -273,6 +212,7 @@
       <find>Around</find>
       <find>AutoProxy</find>
       <find>Transferencia Recebida</find>
+      <find>src/test/java,src/test/groovy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -288,7 +228,6 @@
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Propriedade.java" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Properties.java" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesMensagemUtils.java" />
-        <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/ExcecaoDeValidacao.java" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/resources/ValidationMessages.properties" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/service/TransferenciaServico.java" />
@@ -312,10 +251,12 @@
         <option value="$PROJECT_DIR$/portfolio-java-core/pom.xml" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/resources/core.properties" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstSpecification.groovy" />
-        <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstTest.groovy" />
         <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.java" />
+        <option value="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstTest.groovy" />
+        <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java" />
+        <option value="$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/PropriedadesCoreTest.groovy" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java" />
       </list>
     </option>
   </component>
@@ -342,6 +283,41 @@
             <path>
               <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio-java-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio-java-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio-java-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio-java-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio-java-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio-java-core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -373,16 +349,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio-java-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="configuracao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
@@ -424,15 +390,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="portfolio-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-java" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio-java-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -441,7 +398,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="TransferenciaDTO&#9;FILE&#9;file:///home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/model/TransferenciaDTO.java&#10;StatusRecurso&#9;FILE&#9;file:///home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-api/src/main/java/org/portfolio/java/api/rest/status/resources/StatusRecurso.java&#10;Exce&#9;PSI&#9;JAVA://org.portfolio.java.core.comum.ExcecaoDeValidacao&#10;ValidationMessages.properties&#9;FILE&#9;jar:///home/samuel/.m2/repository/org/hibernate/hibernate-validator/5.2.0.Final/hibernate-validator-5.2.0.Final.jar!/org/hibernate/validator/ValidationMessages.properties" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547034607439" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547051877356" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projetos_cvc/git/gw-aereo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -449,9 +406,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.portfolio.java.core" />
       <recent name="org.portfolio.java.core.testes.configuracao" />
       <recent name="org.portfolio.java.core.configuracao" />
-      <recent name="org.portfolio.java.core" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio-java-core/src/test" />
@@ -470,32 +427,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TransferenciaTest.testeTransferenciaTaxaCCreated">
-    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PropriedadesCoreTest.deve retornar erro das propriedades do core">
+    <configuration name="PropriedadesCoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="portfolio-java-core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.portfolio.java.core.configuracao.*" />
+          <option name="PATTERN" value="org.portfolio.java.core.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.portfolio.java.core" />
-      <option name="MAIN_CLASS_NAME" value="org.portfolio.java.core.configuracao.FirstTest" />
+      <option name="MAIN_CLASS_NAME" value="org.portfolio.java.core.PropriedadesCoreTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.deve retornar as propriedades do core" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PropriedadesCoreTest.deve retornar as propriedades do core" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="portfolio-java-core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.portfolio.java.core.configuracao.*" />
+          <option name="PATTERN" value="org.portfolio.java.core.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.portfolio.java.core" />
-      <option name="MAIN_CLASS_NAME" value="org.portfolio.java.core.configuracao.FirstTest" />
+      <option name="MAIN_CLASS_NAME" value="org.portfolio.java.core.PropriedadesCoreTest" />
       <option name="METHOD_NAME" value="deve retornar as propriedades do core" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropriedadesCoreTest.deve retornar erro das propriedades do core" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="portfolio-java-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.portfolio.java.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.portfolio.java.core" />
+      <option name="MAIN_CLASS_NAME" value="org.portfolio.java.core.PropriedadesCoreTest" />
+      <option name="METHOD_NAME" value="deve retornar erro das propriedades do core" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -531,28 +504,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="groovy in portfolio-java-core" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="portfolio-java-core" />
-      <option name="TEST_OBJECT" value="directory" />
-      <dir value="$PROJECT_DIR$/portfolio-java-core/src/test/groovy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.groovy in portfolio-java-core" />
-      <item itemvalue="JUnit.FirstTest.deve retornar as propriedades do core" />
-      <item itemvalue="JUnit.FirstTest" />
+      <item itemvalue="JUnit.PropriedadesCoreTest.deve retornar as propriedades do core" />
+      <item itemvalue="JUnit.PropriedadesCoreTest" />
       <item itemvalue="JUnit.TransferenciaTest" />
       <item itemvalue="JUnit.TransferenciaTest.testeTransferenciaTaxaCCreated" />
+      <item itemvalue="JUnit.PropriedadesCoreTest.deve retornar erro das propriedades do core" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PropriedadesCoreTest.deve retornar erro das propriedades do core" />
+        <item itemvalue="JUnit.PropriedadesCoreTest.deve retornar as propriedades do core" />
         <item itemvalue="JUnit.TransferenciaTest.testeTransferenciaTaxaCCreated" />
         <item itemvalue="JUnit.TransferenciaTest" />
-        <item itemvalue="JUnit.FirstTest" />
-        <item itemvalue="JUnit.FirstTest.deve retornar as propriedades do core" />
-        <item itemvalue="JUnit.groovy in portfolio-java-core" />
+        <item itemvalue="JUnit.PropriedadesCoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -570,35 +535,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstSpecification_deve_retornar_as_propriedades_do_core - 2019.01.08 at 09h 40m 34s.xml">
-      <configuration name="FirstSpecification.deve retornar as propriedades do core" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 02m 25s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstSpecification_deve_retornar_as_propriedades_do_core - 2019.01.08 at 09h 40m 51s.xml">
-      <configuration name="FirstSpecification.deve retornar as propriedades do core" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 02m 46s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstSpecification_deve_retornar_as_propriedades_do_core - 2019.01.08 at 09h 41m 22s.xml">
-      <configuration name="FirstSpecification.deve retornar as propriedades do core" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 02m 56s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstSpecification_deve_retornar_as_propriedades_do_core - 2019.01.08 at 09h 41m 39s.xml">
-      <configuration name="FirstSpecification.deve retornar as propriedades do core" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 03m 56s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstSpecification_deve_retornar_as_propriedades_do_core - 2019.01.08 at 09h 43m 06s.xml">
-      <configuration name="FirstSpecification.deve retornar as propriedades do core" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 05m 20s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstSpecification_deve_retornar_as_propriedades_do_core - 2019.01.08 at 09h 43m 38s.xml">
-      <configuration name="FirstSpecification.deve retornar as propriedades do core" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 05m 53s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest - 2019.01.08 at 16h 55m 00s.xml">
-      <configuration name="FirstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 06m 11s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransferenciaTest - 2019.01.09 at 09h 47m 34s.xml">
-      <configuration name="TransferenciaTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 06m 33s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransferenciaTest_testeTransferenciaTaxaCCreated - 2019.01.09 at 09h 47m 52s.xml">
-      <configuration name="TransferenciaTest.testeTransferenciaTaxaCCreated" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 08m 23s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransferenciaTest_testeTransferenciaTaxaCCreated - 2019.01.09 at 09h 49m 00s.xml">
-      <configuration name="TransferenciaTest.testeTransferenciaTaxaCCreated" configurationId="JUnit" />
+    <history-entry file="FirstTest_deve_retornar_erro_das_propriedades_do_core - 2019.01.09 at 14h 08m 47s.xml">
+      <configuration name="FirstTest.deve retornar erro das propriedades do core" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -685,6 +650,12 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/PropriedadesCoreTest.groovy</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -757,17 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,16 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSourceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio-java-api/src/main/java/org/portfolio/java/api/rest/status/resources/StatusRecurso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -936,23 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/FirstTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#46#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio-java-api/src/test/java/org/portfolio/java/api/transfer/TransferenciaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -975,7 +908,7 @@
     <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/service/TransferenciaServico.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -989,16 +922,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java">
+    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSourceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1007,6 +936,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="34" column="80" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/test/groovy/org.portfolio.java.core/PropriedadesCoreTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#46#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="103" column="42" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="42" />
         </state>
       </provider>
     </entry>
