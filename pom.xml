@@ -47,8 +47,12 @@
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
         <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
         <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
+        <lombok.project>1.16.20</lombok.project>
 
     </properties>
+
+
+
 
     <!-- PROFILES -->
     <profiles>
