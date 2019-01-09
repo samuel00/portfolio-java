@@ -2,7 +2,6 @@ org/portfolio/java/core/transfer/model/Taxa$1.class
 org/portfolio/java/core/comum/PaginaDeRegistrosDTO.class
 org/portfolio/java/core/comum/PropriedadesValidacao.class
 org/portfolio/java/core/transfer/model/CalculoDeTaxa.class
-org/portfolio/java/core/comum/Teste.class
 org/portfolio/java/core/transfer/service/TransferenciaServico.class
 org/portfolio/java/core/transfer/model/StatusTransferencia.class
 org/portfolio/java/core/transfer/model/Taxa$3.class
@@ -16,6 +15,7 @@ org/portfolio/java/core/status/service/StatusServico.class
 org/portfolio/java/core/status/repository/StatusRepositorio.class
 org/portfolio/java/core/transfer/model/Transferencia.class
 org/portfolio/java/core/transfer/model/Taxa$2.class
+org/portfolio/java/core/configuracao/ConfiguracaoDataSourceTest.class
 org/portfolio/java/core/configuracao/ConfiguracaoDataSource.class
 org/portfolio/java/core/transfer/model/Taxa$4.class
 org/portfolio/java/core/transfer/model/TransferenciaDTO.class
@@ -23,5 +23,4 @@ org/portfolio/java/core/transfer/repository/TransferenciaRepositorio.class
 org/portfolio/java/core/comum/ExcecaoDeValidacao.class
 org/portfolio/java/core/comum/HTTPResponse.class
 org/portfolio/java/core/transfer/model/Taxa.class
-org/portfolio/java/core/configuracao/ConfiguracaoJPATeste.class
 org/portfolio/java/core/transfer/util/TransferenciaUtil.class

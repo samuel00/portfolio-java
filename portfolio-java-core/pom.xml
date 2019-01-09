@@ -180,5 +180,19 @@
 			<version>${hibernate.validator.version}</version>
 		</dependency>
 
+		<!--Groovy-->
+		<dependency>
+			<groupId>org.spockframework</groupId>
+			<artifactId>spock-core</artifactId>
+			<version>${groovy.core.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.groovy</groupId>
+			<artifactId>groovy-all</artifactId>
+			<version>${groovy.version}</version>
+			<scope>test</scope>
+		</dependency>
+
 	</dependencies>
 </project>

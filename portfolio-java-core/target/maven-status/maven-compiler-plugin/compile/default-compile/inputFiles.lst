@@ -8,14 +8,13 @@
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/model/Transferencia.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesCore.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/ExcecaoGenerica.java
+/home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSourceTest.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoDataSource.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/model/TransferenciaDTO.java
-/home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/configuracao/ConfiguracaoJPATeste.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/PropriedadesValidacao.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/util/TransferenciaUtil.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/model/StatusTransferencia.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/transfer/service/TransferenciaServico.java
-/home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Teste.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/Resource.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/ExcecaoDeValidacao.java
 /home/samuel/Documentos/PROJETOS/portfolio-java/portfolio-java-core/src/main/java/org/portfolio/java/core/comum/HTTPResponse.java

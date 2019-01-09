@@ -32,7 +32,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 	LocalContainerEntityManagerFactoryBean entityManagerFactory = new LocalContainerEntityManagerFactoryBean();
 	entityManagerFactory.setDataSource(dataSource());
 	entityManagerFactory.setPersistenceUnitName("transferencia-eletronica-PU");
-	entityManagerFactory.setPackagesToScan(new String[] {"sls.transferenciaeletronica"});
+	entityManagerFactory.setPackagesToScan(new String[] {"org.portfolio.java"});
 	JpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();
 	entityManagerFactory.setJpaVendorAdapter(vendorAdapter);
 	entityManagerFactory.setJpaProperties(additionalProperties());
